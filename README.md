@@ -4,7 +4,7 @@
 
 This is an implementation of the *Pentago* board game in Python.
 
-Pentago is a two-player game played on a 6×6 board split into four 3×3 quadrants. Players take turns placing a marble and rotating one quadrant. The goal is to get *five marbles in a row*.
+Pentago is a two-player game played on a 6×6 board split into four 3×3 quadrants. Players take turns placing a marble and rotating one quadrant. The goal is to get **five marbles in a row**.
 
 The game supports two modes:
 
